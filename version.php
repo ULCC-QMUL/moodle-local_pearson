@@ -10,7 +10,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2015120800;
+$plugin->version   = 2017052300;
 $plugin->requires  = 2013051408;
 $plugin->cron      = 0;
 $plugin->component = 'local_pearson';
